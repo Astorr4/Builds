@@ -29,20 +29,37 @@
 7. Библиотеки из проекта:
 
     beautifulsoup4     4.12.3
+
     certifi            2024.8.30
+
     charset-normalizer 3.4.0idna
+
     3.10importlib_metadata 8.5.0
+
     jenkinsapi         0.3.13
+
     keyring            23.0.1
+
     lxml               5.2.2
+
     pip                22.3.1
+
     pytz               2024.2
+
     pywin32            306
+
     pywin32-ctypes     0.2.3
+
     requests           2.32.3
+
     setuptools         65.5.1
+
     six                1.16.0
+
     soupsieve          2.5
+
     urllib3            2.2.3
+
     wheel              0.38.4
+
     zipp               3.21.0
